@@ -14,8 +14,3 @@ analysis-ready pandas DataFrames.
   - Raster-aligned spike data
 - Generate a summary DataFrame linking rasters, events, analog signals, and units
 - Convenience accessors to pull rasters/events/spikes back out of the `Block`
-
-## Installation
-
-```bash
-pip install -e .

@@ -1,4 +1,4 @@
-# neo-pipeline
+# NP data managment
 
 Tools to convert Neuropixels / Kilosort output and National Instruments stimulus data
 into [`neo`](https://neuralensemble.org/neo/) `Block`/`Segment` structures and
